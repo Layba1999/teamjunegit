@@ -1,2 +1,5 @@
 ipod
 ipod touch
+
+
+safari browser added
